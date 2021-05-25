@@ -37,7 +37,7 @@ test:
 
 about:
   home: https://CRAN.R-project.org/package=ALEPlot
-  license: GPL-2
+  license: GPL-2.0-only
   summary: Visualizes the main effects of individual predictor variables and their second-order
     interaction effects in black-box supervised learning models. The package creates
     either Accumulated Local Effects (ALE) plots and/or Partial Dependence (PD) plots,
