@@ -1,11 +1,11 @@
-About r-aleplot
-===============
+About r-aleplot-feedstock
+=========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-aleplot-feedstock/blob/main/LICENSE.txt)
 
 Home: https://CRAN.R-project.org/package=ALEPlot
 
 Package license: GPL-2.0-only
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-aleplot-feedstock/blob/main/LICENSE.txt)
 
 Summary: Visualizes the main effects of individual predictor variables and their second-order interaction effects in black-box supervised learning models. The package creates either Accumulated Local Effects (ALE) plots and/or Partial Dependence (PD) plots, given a fitted supervised learning model.
 
